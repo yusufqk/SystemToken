@@ -21,5 +21,5 @@ Compile and run SystemToken.exe
 ## References
 
 This work is based on the research done by [Justin Bui from SpecterOps](https://posts.specterops.io/understanding-and-defending-against-access-token-theft-finding-alternatives-to-winlogon-exe-80696c8a73b)  
-https://docs.microsoft.com/en-us/windows/win32/secauthz/access-tokens
+https://docs.microsoft.com/en-us/windows/win32/secauthz/access-tokens<br/>
 Windows API exploitation at PentesterAcademy (amazing course, learned alot)
