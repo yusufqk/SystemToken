@@ -22,4 +22,4 @@ Compile and run SystemToken.exe
 
 This work is based on the research done by [Justin Bui from SpecterOps](https://posts.specterops.io/understanding-and-defending-against-access-token-theft-finding-alternatives-to-winlogon-exe-80696c8a73b)  
 https://docs.microsoft.com/en-us/windows/win32/secauthz/access-tokens<br/>
-Windows API exploitation at PentesterAcademy (amazing course, learned alot). The EnablePriv.h file used to enable privileges (no longer used) was my own modified version from the course.
+Windows API exploitation at PentesterAcademy (amazing course, learned alot). The EnablePriv.h file used to enable privileges (provided but never used by this tool) was my own modified version from the course.
